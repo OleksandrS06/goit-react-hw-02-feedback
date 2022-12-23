@@ -1,0 +1,10 @@
+.btnWraper {
+  display: flex;
+  gap: 20px;
+}
+.btn {
+  width: 100px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #c1cfeb;
+}
